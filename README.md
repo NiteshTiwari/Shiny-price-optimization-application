@@ -1,2 +1,2 @@
 # Shiny-price-optimization-application
-The application deals with the idea of portfolio management of a  insurance company. You want to control different aspects like premium, limit and deductible to give your client the best policy and also maintaining your portfolio profitability.
+This application was developed by me for the final year capstone project. It includes a price ealsticity model and a shiny dashboard application. 
